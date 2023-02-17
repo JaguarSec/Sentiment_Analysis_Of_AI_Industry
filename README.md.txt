@@ -1,1 +1,0 @@
-Text Mining and Data Wrangling project using pandas, the Twitter API and the nltk library for Natural Language Processing (NLP) to generate a Sentiment Analysis (SA) score for several terms relating to AI and anxieties around the perception of data-driven surveillance in the public and private sectors.
