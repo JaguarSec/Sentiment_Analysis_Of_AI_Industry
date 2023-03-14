@@ -10,7 +10,7 @@ Text Mining, Data Wrangling and Natural Language Processing project using:
 
 1. Attempts to conduct exploratory analysis on the effects of disinformation and misinformation related to the #covid1984 hashtag. 
 
-2. Investigates the relationship between political perspectives and concerns about the role of artificial intelligence as well as its impacts both positive and negative on collective and individual well-being. 
+2. Investigates the relationship between political perspectives and concerns about the role of artificial intelligence and its impacts, both positive and negative, on collective and individual well-being. 
 
 3. Generates a Sentiment Analysis (SA) score for several terms relating to AI and anxieties around the perception of data-driven surveillance in the public and private sectors.
 
