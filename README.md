@@ -1,4 +1,4 @@
-May 2020 School Project
+May 2020 School Project [Incomplete]
 
 Text Mining, Data Wrangling and Natural Language Processing project using:
 - Python
@@ -15,4 +15,3 @@ Text Mining, Data Wrangling and Natural Language Processing project using:
 3. Generates a Sentiment Analysis (SA) score for several terms relating to AI and anxieties around the perception of data-driven surveillance in the public and private sectors.
 
 Current Date Range: 2013-2020
-[In-Progress]
